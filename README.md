@@ -8,4 +8,8 @@
 
 ## Intro
 
-Build a mini to-do list app. The app should have a form with a text field that submits with the `submit` event handler. The 
+build a calculator that does xyz
+
+## Instructions
+
+refactor https://github.com/learn-co-curriculum/fe-jquery-user-input-calc/tree/gh-pages this lab - include files in this repo and add tests
