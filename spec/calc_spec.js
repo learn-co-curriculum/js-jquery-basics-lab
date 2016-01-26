@@ -6,7 +6,7 @@ describe('jQuery Calculator', function() {
   });
 
   it('#doMath applies click event to equals sign', function() {
-    
+    doMath();
     var equals = $('#equals')[0];
     var equalsClickEvent = $._data(equals, "events");
     var myKey = [];
@@ -15,31 +15,20 @@ describe('jQuery Calculator', function() {
   });
 
   it('#validate returns "Sorry, that is not a valid operator" if operator is not valid', function() {
-    //variables not defined in method
-    var operator = "j";
-    var num1 = 2;
-    var num2 = 3;
-    expect(validate()).toEqual("Sorry, that is not a valid operator");
+
+    expect(validate("j", 2, 3)).toEqual("Sorry, that is not a valid operator");
 
   });
 
   it('#validate returns "Sorry, one of those is not a valid number!" if a number is not valid', function() {
-      //variables not defined in method
-      var num1 = 12;
-      var num2 = 'kevin';
-      var operator = '+';
-      expect(validate()).toEqual("Sorry, one of those is not a valid number!");
+      expect(validate("+", 12, "kevin")).toEqual("Sorry, one of those is not a valid number!");
 
   });
 
 
    it('#result returns the correct answer', function() {
 
-      var num1 = 12;
-      var num2 = 2;
-      var operator = '+';
-
-      expect(result()).toEqual(14);
+      expect(result('+', 12, 2)).toEqual(14);
   });
 
 
