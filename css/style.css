@@ -1,0 +1,26 @@
+h2, div, input {
+  display: inline-block;
+  padding: 20px;
+}
+
+div {
+  border: 1px solid #ccc;
+}
+
+h2 {
+  border: 1px solid #000;
+  font-size: 2em;
+}
+
+input {
+  width: 30px;
+  font-size: 2em;
+}
+
+label {
+  display: block;
+}
+
+button {
+  font-size: 2em;
+}
