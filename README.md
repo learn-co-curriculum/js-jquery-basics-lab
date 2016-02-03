@@ -31,6 +31,6 @@ We've provided the code in `index.html` and `css/style.css` to code the frontend
 
 + **NB**: In order for your tests to run properly, you'll need to define the functions outside of the document ready. Any variables you define in the global scope will need to be defined inside the document ready and outside as well. Inside the document ready you'll want to call the `doMath` function.
 
-See a live working example of the simple calculator [here](http://flatiron-school-curriculum.github.io/fe-jquery-user-input-calc/)
+See a live working example of the simple calculator [here](http://learn-co-curriculum.github.io/fe-jquery-user-input-calc/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-basics-lab' title='Basic Calculator App'>Basic Calculator App</a> on Learn.co and start learning to code for free.</p>
