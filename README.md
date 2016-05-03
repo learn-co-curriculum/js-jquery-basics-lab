@@ -8,7 +8,7 @@
 
 ## Intro
 
-Somehow, through a magic fortune cookie, you traveled back in time. You're back in high school and have a big math test to take. Your teacher told you you can do math on anything but an actual TI-83. Most of your classmates will just bring a pencil and paper, but you're smarter than that. You're going to build a calculator app which doesn't break your teachers rule, and still helps you get and A on that test.
+Somehow, through a magic fortune cookie, you traveled back in time. You're back in high school and have a big math test to take. Your teacher told you you can do math on anything but an actual TI-83. Most of your classmates will just bring a pencil and paper, but you're smarter than that. You're going to build a calculator app which doesn't break your teachers rule, and still helps you get an A on that test.
 
 
 ## Instructions
@@ -34,3 +34,5 @@ We've provided the code in `index.html` and `css/style.css` to code the frontend
 See a live working example of the simple calculator [here](http://learn-co-curriculum.github.io/fe-jquery-user-input-calc/)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-basics-lab' title='Basic Calculator App'>Basic Calculator App</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-jquery-basics-lab'>jQuery Basics Lab</a> on Learn.co and start learning to code for free.</p>
