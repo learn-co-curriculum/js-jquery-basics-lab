@@ -1,6 +1,8 @@
 tags:
-  - a tag
+  - selectors
+  - event handlers
+  - methods
 languages:
-  - a language
+  - jquery
 resources: 
   - 0
