@@ -1,4 +1,4 @@
-# Basic Calculator App
+# jQuery Basics Lab
 
 ## Objectives
 
@@ -33,4 +33,4 @@ We've provided the front-end code in `index.html` and `css/style.css`. Your job 
 
 See a live, working example of the simple calculator [here](http://learn-co-curriculum.github.io/fe-jquery-user-input-calc/).
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-basics-lab' title='Basic Calculator App'>Basic Calculator App</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-basics-lab' title='jQuery Basics Lab'>jQuery Basics Lab</a> on Learn.co and start learning to code for free.</p>
